@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Scala: division by zero. The file `bug.scala` shows the erroneous code with a potential division by zero, while `bugSolution.scala` provides the corrected version that handles the case where the divisor is zero and prevents the runtime error.
